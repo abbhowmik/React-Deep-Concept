@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.active_class {
+  color: coral;
+  border-bottom: 2px solid red;
+}

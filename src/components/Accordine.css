@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  justify-content: center;
+  margin-top: 100px;
+  font-weight: bold;
+}
+
+.divElement {
+  background: rgb(230, 163, 163);
+  padding: 23px;
+  margin: 34px;
+}
+.divElement span {
+  background-color: rgb(218, 253, 60);
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.div {
+  text-align: center;
+  margin-top: 200px;
+  justify-content: center;
+  justify-content: center;
+}
+
+.div input {
+  width: 400px;
+  height: 36px;
+  padding: 14px;
+  margin-top: 45px;
+}
+
+.div h1 {
+  padding: 45px;
+  color: red;
+}
+
+.div button {
+  width: 78px;
+  height: 25px;
+  margin-top: 24px;
+  margin-bottom: 34px;
+}
+
+.div {
+  background-color: rgb(255, 210, 85);
+}
